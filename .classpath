@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="Conference Program/src"/>
+	<classpathentry kind="src" path="Proceedings/Conference Program/src"/>
+	<classpathentry kind="src" path="Proceedings/src"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="Conference Program/lib/itextpdf-5.4.2.jar"/>
+	<classpathentry kind="lib" path="Conference Program/lib/jxl.jar"/>
+	<classpathentry kind="lib" path="Conference Program/lib/xmlworker-5.4.2.jar"/>
+	<classpathentry kind="lib" path="lib/itextpdf-5.4.2.jar"/>
+	<classpathentry kind="lib" path="lib/json-simple-1.1.1.jar"/>
+	<classpathentry kind="lib" path="lib/jxl.jar"/>
+	<classpathentry kind="lib" path="lib/xmlworker-5.4.2.jar"/>
+	<classpathentry kind="lib" path="Proceedings/Conference Program/lib/itextpdf-5.4.2.jar"/>
+	<classpathentry kind="lib" path="Proceedings/Conference Program/lib/jxl.jar"/>
+	<classpathentry kind="lib" path="Proceedings/Conference Program/lib/xmlworker-5.4.2.jar"/>
+	<classpathentry kind="lib" path="Proceedings/lib/itextpdf-5.4.2.jar"/>
+	<classpathentry kind="lib" path="Proceedings/lib/json-simple-1.1.1.jar"/>
+	<classpathentry kind="lib" path="Proceedings/lib/jxl.jar"/>
+	<classpathentry kind="lib" path="Proceedings/lib/xmlworker-5.4.2.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
